@@ -1,17 +1,16 @@
 <!-- Fancy GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
-<h3 align="center">Frontend Developer 🚀 | MCA Student | Passionate about building responsive web apps</h3>
+<h3 align="center">Frontend Developer 🚀 | Passionate about building responsive, user-friendly web apps</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
 ## 💫 About Me:
-- 🌱 I’m currently pursuing **MCA (2023–2025)** at Uttaranchal University  
-- 💻 I love building **responsive, user-friendly web apps** with modern UI libraries  
-- 🚀 Projects: **IndiKart (E-Commerce)** | **SearchFlix (Movie App)** | **ZestBlog (MERN Blog Platform)**  
-- ⚡ Fun fact: *I debug more than I code, but that’s where real learning happens* 😅  
+- 💻 Frontend Developer skilled in **React, Tailwind CSS, Redux Toolkit, and modern UI libraries**  
+- 🚀 Built real-world projects like **IndiKart (E-commerce)**, **SearchFlix (Movie App)**, and **ZestBlog (MERN Blog Platform – In Progress)**  
+- 🔗 Strong experience with **Firebase, APIs, and component-based architecture**  
 - 📫 Reach me at: **[Email](mailto:vivekrawat08wrk@gmail.com)** | **[LinkedIn](https://linkedin.com/in/05viveksingh)**  
 
 ---
@@ -28,7 +27,7 @@
 
 ## 💻 Tech Stack:
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,nextjs,vite,tailwind,materialui,firebase,mongodb,nodejs,express,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,nextjs,tailwind,materialui,firebase,nodejs,express,mongodb,git,github,figma" />
 </p>
 
 ---
@@ -58,13 +57,13 @@
 
 ## 🎖 Achievements:
 - 🏅 Participated in a **Web Development Competition** at college  
-- 🥈 Secured **2nd position in a team quiz competition**, showcasing teamwork & problem-solving skills  
+- 🥈 Secured **2nd position in a team quiz competition** (teamwork & problem-solving)  
 
 ---
 
 ## ✨ Fun Animation:
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+React+Lover;Learning+Next.js+%26+MERN+Stack;Building+Projects+%F0%9F%9A%80;Open+to+Internships+%26+Collabs+%F0%9F%92%9A" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+React+Lover;Learning+Backend+Technologies;Building+Projects+%F0%9F%9A%80;Open+to+Internships+%26+Collabs+%F0%9F%92%9A" />
 </p>
 
 ---
@@ -83,20 +82,4 @@
 
 ---
 
-<h3 align="center">Show some ❤️ by starring repositories!</h3>
-## Hi there 👋
-
-<!--
-**vivek08wrk/vivek08wrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">⭐ Show some love by starring my repositories!</h3>
